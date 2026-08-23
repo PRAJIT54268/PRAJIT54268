@@ -129,18 +129,6 @@ Platform to help students/developers find teammates for projects & hackathons ba
 
 <br/>
 
-## 🤖 AI Engineering Journey
-
-```
-Machine Learning → Deep Learning → Generative AI → LLMs
-      → RAG Systems → AI Agents → LangChain / LangGraph
-      → AI-powered Applications
-```
-
-Currently deepening: **ML · Deep Learning · Generative AI · LLMs · RAG · Agentic AI · LangChain · LangGraph · Advanced Java & Spring Boot · Full-Stack with Next.js · DSA**
-
-<br/>
-
 ## 🎓 Education
 
 **SRM Institute of Science and Technology** — Kattankulathur, Chennai
@@ -157,15 +145,6 @@ B.Tech, Computer Science & Engineering · CGPA **9.7** · Expected Graduation **
 
 <img src="https://streak-stats.demolab.com?user=PRAJIT54268&theme=github-dark-blue&hide_border=true" />
 
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/PRAJIT54268/PRAJIT54268/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Snake"/>
-<img src="https://raw.githubusercontent.com/PRAJIT54268/PRAJIT54268/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Snake"/>
 </div>
 
 <br/>
