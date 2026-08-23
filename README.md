@@ -1,331 +1,184 @@
-<!-- ===================== HEADER ===================== -->
-
 <div align="center">
 
-# 👋 Hi, I'm Prajit Verma
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Prajit%20Verma&fontSize=48&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-### `Aspiring AI Engineer` · `Full Stack Developer` · `Java` · `Next.js`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Java+%7C+Next.js+%7C+Spring+Boot;Exploring+GenAI%2C+LLMs+%26+AI+Agents;Building+Real-World+Projects" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+real-world+applications;Exploring+AI+%26+Generative+AI;Solving+problems+with+DSA;Learning+%E2%86%92+Building+%E2%86%92+Improving" alt="Typing Animation"/>
+<br/>
 
-<br>
-
-<a href="https://github.com/PRAJIT54268">
-<img src="https://img.shields.io/badge/GitHub-PRAJIT54268-0D1117?style=flat-square&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/prajit-verma-104a23377/">
-<img src="https://img.shields.io/badge/LinkedIn-Prajit%20Verma-0D1117?style=flat-square&logo=linkedin&logoColor=58A6FF"/>
-</a>
-&nbsp;
-<a href="https://portfolio-nine-jade-82.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-0D1117?style=flat-square&logo=vercel&logoColor=58A6FF"/>
-</a>
+<a href="https://portfolio-nine-jade-82.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/PRAJIT54268"><img src="https://img.shields.io/badge/GitHub-PRAJIT54268-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/prajit-verma-104a23377/"><img src="https://img.shields.io/badge/LinkedIn-Prajit%20Verma-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:prajitverma16@gmail.com"><img src="https://img.shields.io/badge/Email-prajitverma16%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 </div>
 
----
+<br/>
 
-<!-- ===================== ABOUT ===================== -->
+## 🧑‍💻 About Me
 
-## `> whoami`
+I'm a **B.Tech Computer Science & Engineering student at SRMIST, Kattankulathur**, passionate about building real-world software and exploring the intersection of **software development and AI engineering**.
 
-I'm a **B.Tech Computer Science & Engineering student at SRMIST, Kattankulathur**, focused on building real-world software and gradually moving deeper into **AI Engineering**.
+I enjoy building **full-stack applications**, working with **Java and backend technologies**, solving problems through **DSA**, and experimenting with **Generative AI, LLMs, RAG systems, and AI agents**.
 
-I enjoy working with **Java and backend systems**, building **full-stack applications**, solving problems through **DSA**, and exploring **Generative AI, LLMs, RAG systems, and AI agents**.
+> 🚀 Building today. Learning continuously. Working toward becoming a strong AI-powered software engineer.
 
-> **Build it. Understand it. Improve it. Repeat.**
+<br/>
 
-My long-term goal is to combine strong **software engineering fundamentals** with modern **AI capabilities** to build useful, scalable, and intelligent applications.
+## 🛠️ Tech Stack
 
----
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 
-## `> development_stack`
+**Frontend & Web**
+<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
 
-### 💻 Languages
+**Backend**
+<br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 
-|    | Technology     |
-| -- | -------------- |
-| ☕  | **Java**       |
-| 🐍 | **Python**     |
-| ⚡  | **JavaScript** |
-| 🔷 | **TypeScript** |
-| 🔵 | **C**          |
-| 🟣 | **C++**        |
+**Databases & ORM**
+<br/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white"/>
 
-### 🌐 Frontend
+**AI / GenAI — currently exploring**
+<br/>
+<img src="https://img.shields.io/badge/Machine_Learning-4B8BBE?style=flat-square"/>
+<img src="https://img.shields.io/badge/Deep_Learning-4B8BBE?style=flat-square"/>
+<img src="https://img.shields.io/badge/Generative_AI-4B8BBE?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLMs-4B8BBE?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-4B8BBE?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI_Agents-4B8BBE?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
 
-|     | Technology       |
-| --- | ---------------- |
-| 🌐  | **HTML5**        |
-| 🎨  | **CSS3**         |
-| ⚛️  | **React**        |
-| ▲   | **Next.js**      |
-| 🎨  | **Tailwind CSS** |
-| ⚡   | **Vite**         |
-| 🅱️ | **Bootstrap**    |
+**Tools & Deployment**
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/WebSockets-000000?style=flat-square"/>
 
-### ⚙️ Backend
+<br/>
 
-|    | Technology      |
-| -- | --------------- |
-| ☕  | **Spring Boot** |
-| 🟢 | **Node.js**     |
-| 🚂 | **Express.js**  |
-| 🐍 | **Flask**       |
-| 🔌 | **REST APIs**   |
-| ⚡  | **WebSockets**  |
+## 🚀 Featured Projects
 
-### 🗄️ Databases & Data Layer
+<table>
+<tr>
+<td width="50%" valign="top">
 
-|    | Technology               |
-| -- | ------------------------ |
-| 🍃 | **MongoDB**              |
-| 🐘 | **PostgreSQL**           |
-| 🔥 | **Firebase / Firestore** |
-| ◈  | **Prisma**               |
-| 🍃 | **Mongoose**             |
+### 🏕️ [YelpCamp](https://github.com/PRAJIT54268/YelpCamp)
+Full-stack camping-site platform to discover, create, manage, and review campsites.
 
-### ☁️ Tools & Deployment
+- 🔐 Auth & authorization
+- 🗺️ Interactive maps (MapTiler)
+- 🖼️ Image upload via Cloudinary
+- ⭐ Reviews & ratings
 
-|     | Technology     |
-| --- | -------------- |
-| 🌿  | **Git**        |
-| 🐙  | **GitHub**     |
-| ▲   | **Vercel**     |
-| 🖼️ | **Cloudinary** |
-| 📮  | **Postman**    |
+`Node.js` `Express` `MongoDB` `Mongoose` `EJS` `Bootstrap`
 
----
+</td>
+<td width="50%" valign="top">
 
-# `> featured_projects`
+### 🌐 [Portfolio](https://portfolio-nine-jade-82.vercel.app/)
+Personal developer portfolio showcasing projects, skills, education, and contact info.
 
-## 🏕️ YelpCamp
+- 💻 Project showcase
+- 🛠️ Skills & education
+- 📱 Fully responsive
+- ⚡ Deployed on Vercel
 
-> **A full-stack camping-site platform built around authentication, CRUD operations, maps, reviews, and media management.**
+`Next.js` `React` `Tailwind CSS`
 
-**Core Features**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" colspan="2">
 
-* 🔐 Authentication & authorization
-* 🏕️ Camping-site CRUD operations
-* ⭐ Reviews & ratings
-* 🗺️ Interactive maps with MapTiler
-* 🖼️ Cloudinary image management
-* 👤 User-specific content authorization
-* 📱 Responsive interface
+### 🤝 PartnerUp — <i>in development</i>
+Platform to help students/developers find teammates for projects & hackathons based on skills and interests — profile creation, collaborator discovery, and real-time team formation.
 
-**Built with**
+`Next.js` `TypeScript` `PostgreSQL` `Prisma` `Auth.js` `Tailwind CSS` `WebSockets`
 
-`Node.js` · `Express.js` · `MongoDB` · `Mongoose` · `EJS` · `Bootstrap` · `MapTiler` · `Cloudinary`
+</td>
+</tr>
+</table>
 
-<div align="left">
+<br/>
 
-<a href="https://github.com/PRAJIT54268/YelpCamp">
-<img src="https://img.shields.io/badge/%E2%86%92%20View%20Repository-161B22?style=flat-square&logo=github&logoColor=58A6FF"/>
-</a>
+## 🤖 AI Engineering Journey
 
-</div>
-
----
-
-## 🌐 Portfolio
-
-> **My personal developer portfolio showcasing my projects, technical skills, education, and development journey.**
-
-**Highlights**
-
-* 💻 Project showcase
-* 🛠️ Technical skills
-* 🎓 Education
-* 📄 Professional information
-* 🔗 Social & developer profiles
-* 📬 Contact section
-* 📱 Responsive design
-* ▲ Deployed with Vercel
-
-**Focus**
-
-`Full Stack Development` · `Java` · `DSA` · `Generative AI`
-
-<div align="left">
-
-<a href="https://portfolio-nine-jade-82.vercel.app/">
-<img src="https://img.shields.io/badge/%E2%86%92%20Live%20Portfolio-161B22?style=flat-square&logo=vercel&logoColor=58A6FF"/>
-</a>
-
-</div>
-
----
-
-## 🤝 PartnerUp
-
-> 🔨 **In Development**
-
-A full-stack collaboration platform designed to help students and developers **find suitable teammates for projects and hackathons based on their skills and interests**.
-
-The platform focuses on structured profiles, skill-based discovery, collaboration, and real-time communication.
-
-**Architecture & Technologies**
-
-`Next.js` · `React` · `TypeScript` · `Prisma` · `PostgreSQL` · `NextAuth/Auth.js` · `Tailwind CSS` · `REST APIs` · `WebSockets` · `Vercel`
-
-> **Status:** 🔨 Actively under development
-
----
-
-# `> ai_engineering`
-
-I'm expanding my software engineering foundation into **AI Engineering**, focusing on how modern AI systems are built, integrated, and turned into real-world applications.
-
-```text
-┌─────────────────────┐
-│   Machine Learning  │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│   Deep Learning     │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│   Generative AI     │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│       LLMs          │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│       RAG           │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│    AI Agents        │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│ LangChain /         │
-│ LangGraph           │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│ AI-powered Apps     │
-└─────────────────────┘
+```
+Machine Learning → Deep Learning → Generative AI → LLMs
+      → RAG Systems → AI Agents → LangChain / LangGraph
+      → AI-powered Applications
 ```
 
-### 🤖 AI Technologies I'm Exploring
+Currently deepening: **ML · Deep Learning · Generative AI · LLMs · RAG · Agentic AI · LangChain · LangGraph · Advanced Java & Spring Boot · Full-Stack with Next.js · DSA**
 
-`🧠 Machine Learning`
+<br/>
 
-`🧬 Deep Learning`
+## 🎓 Education
 
-`✨ Generative AI`
+**SRM Institute of Science and Technology** — Kattankulathur, Chennai
+B.Tech, Computer Science & Engineering · CGPA **9.7** · Expected Graduation **2029**
 
-`🧠 Large Language Models`
+<br/>
 
-`📚 Retrieval-Augmented Generation`
-
-`🤖 AI Agents / Agentic AI`
-
-`🔗 LangChain`
-
-`🕸️ LangGraph`
-
-`🔌 AI APIs`
-
----
-
-# `> currently_learning`
-
-| Area              | Focus                             |
-| ----------------- | --------------------------------- |
-| ☕ **Java**        | Advanced Java & Spring Boot       |
-| ▲ **Next.js**     | Full-Stack Development            |
-| 🤖 **AI**         | Generative AI & LLM Engineering   |
-| 📚 **RAG**        | Retrieval-Augmented Generation    |
-| 🕸️ **Agents**    | AI Agents / Agentic AI            |
-| 🔗 **Frameworks** | LangChain & LangGraph             |
-| 🔌 **APIs**       | AI API integration                |
-| 🧩 **DSA**        | Data Structures & Problem Solving |
-
----
-
-# `> education`
-
-### 🎓 SRM Institute of Science and Technology
-
-**B.Tech — Computer Science & Engineering**
-
-📍 Kattankulathur, Chennai
-
-**CGPA:** `9.7`
-**Expected Graduation:** `2029`
-
----
-
-# `> engineering_philosophy`
-
-```text
-I enjoy solving problems,
-building scalable applications,
-and continuously learning new technologies.
-
-The best way to learn technology
-is to build with it.
-
-Building today.
-Learning continuously.
-Working toward becoming
-a strong AI-powered software engineer.
-```
-
----
-
-# `> github_stats`
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=PRAJIT54268&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github"/>
+<img src="https://github-readme-stats.vercel.app/api?username=PRAJIT54268&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&card_width=440" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRAJIT54268&layout=compact&theme=github_dark&hide_border=true" height="180"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRAJIT54268&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+<img src="https://streak-stats.demolab.com?user=PRAJIT54268&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
-<br>
+<br/>
+
+## 🐍 Contribution Snake
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=PRAJIT54268&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E"/>
-
+<img src="https://raw.githubusercontent.com/PRAJIT54268/PRAJIT54268/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/PRAJIT54268/PRAJIT54268/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Snake"/>
 </div>
 
----
-
-# `> let's_connect`
+<br/>
 
 <div align="center">
 
-<a href="mailto:prajitverma16@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
+## 📫 Let's Connect
 
-<a href="https://www.linkedin.com/in/prajit-verma-104a23377/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
-</a>
+<a href="mailto:prajitverma16@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/prajit-verma-104a23377/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://portfolio-nine-jade-82.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/PRAJIT54268"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
-<a href="https://portfolio-nine-jade-82.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
-</a>
-
-<a href="https://github.com/PRAJIT54268">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### `Building today • Learning continuously • Creating for tomorrow 🚀`
+<i>Building today • Learning continuously • Creating for tomorrow 🚀</i>
 
 </div>
