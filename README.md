@@ -81,6 +81,7 @@ I enjoy building **full-stack applications**, working with **Java and backend te
 <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_APIs-000000?style=flat-square"/>
 <img src="https://img.shields.io/badge/WebSockets-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 
 <br/>
 
@@ -116,7 +117,20 @@ Personal developer portfolio showcasing projects, skills, education, and contact
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" colspan="2">
+<td width="50%" valign="top">
+
+### 🎮 [Echo Tac Toe](https://github.com/PRAJIT54268/echo-tac-toe)
+A tic-tac-toe variant where each player only holds 3 marks at once — place a 4th and the oldest one vanishes, keeping the board constantly shifting.
+
+- 🔄 Vanishing-piece game mechanic
+- 🤖 AI opponent (Easy / Hard, minimax with alpha-beta pruning)
+- 🌐 Real-time online multiplayer via Firebase, play across devices with a room code
+- 🏆 Score tracking across rounds
+
+`HTML` `CSS` `JavaScript` `Firebase Realtime Database`
+
+</td>
+<td width="50%" valign="top">
 
 ### 🤝 PartnerUp — <i>in development</i>
 Platform to help students/developers find teammates for projects & hackathons based on skills and interests — profile creation, collaborator discovery, and real-time team formation.
