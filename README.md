@@ -119,17 +119,32 @@ Personal developer portfolio showcasing projects, skills, education, and contact
 <tr>
 <td width="50%" valign="top">
 
+### 📋 [Kanban Board](https://github.com/PRAJIT54268/Kanban-Board)
+A full-stack, drag-and-drop Kanban Board application to manage projects and visualize workflows.
+
+- 🔐 Custom email & password authentication
+- ✨ Smooth drag & drop task management
+- 🏷️ Custom priorities and dynamic columns
+- 💾 Real-time database persistence
+
+`Next.js` `TypeScript` `Tailwind CSS` `MongoDB` `Prisma` `NextAuth`
+
+</td>
+<td width="50%" valign="top">
+
 ### 🎮 [Echo Tac Toe](https://github.com/PRAJIT54268/echo-tac-toe)
 A tic-tac-toe variant where each player only holds 3 marks at once — place a 4th and the oldest one vanishes, keeping the board constantly shifting.
 
 - 🔄 Vanishing-piece game mechanic
-- 🤖 AI opponent (Easy / Hard, minimax with alpha-beta pruning)
-- 🌐 Real-time online multiplayer via Firebase, play across devices with a room code
+- 🤖 AI opponent (minimax with alpha-beta pruning)
+- 🌐 Real-time online multiplayer via Firebase
 - 🏆 Score tracking across rounds
 
-`HTML` `CSS` `JavaScript` `Firebase Realtime Database`
+`HTML` `CSS` `JavaScript` `Firebase`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🤝 PartnerUp — <i>in development</i>
@@ -138,6 +153,9 @@ Platform to help students/developers find teammates for projects & hackathons ba
 `Next.js` `TypeScript` `PostgreSQL` `Prisma` `Auth.js` `Tailwind CSS` `WebSockets`
 
 </td>
+<td width="50%" valign="top">
+<!-- Space saved for future project -->
+</td>
 </tr>
 </table>
 
@@ -145,7 +163,7 @@ Platform to help students/developers find teammates for projects & hackathons ba
 
 ## 🎓 Education
 
-**SRM Institute of Science and Technology** — Kattankulathur, Chennai
+**SRM Institute of Science and Technology** — Kattankulathur, Chennai  
 B.Tech, Computer Science & Engineering · CGPA **9.7** · Expected Graduation **2029**
 
 <br/>
