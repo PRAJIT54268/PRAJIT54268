@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://portfolio-nine-jade-82.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://prajit-verma-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/PRAJIT54268"><img src="https://img.shields.io/badge/GitHub-PRAJIT54268-181717?style=flat-square&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/prajit-verma-104a23377/"><img src="https://img.shields.io/badge/LinkedIn-Prajit%20Verma-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:prajitverma16@gmail.com"><img src="https://img.shields.io/badge/Email-prajitverma16%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
